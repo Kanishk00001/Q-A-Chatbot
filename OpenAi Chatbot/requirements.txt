@@ -1,7 +1,4 @@
-langchain_openai
-langchain
+openai
 python-dotenv
 git+https://github.com/langchain-ai/langchain.git
-python-dotenv
-langchain_core
 streamlit
