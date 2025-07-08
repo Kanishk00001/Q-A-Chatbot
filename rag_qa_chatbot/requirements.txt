@@ -1,0 +1,17 @@
+streamlit
+pandas
+openai
+pymupdf
+arxiv
+langchain_chroma
+langchain
+faiss-cpu
+python-dotenv
+bs4
+pypdf
+langchain_community
+langchain_groq
+langchain_huggingface
+sentence_transformers
+langchain_text_splitters
+langchain_core
